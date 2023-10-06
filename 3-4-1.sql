@@ -1,0 +1,2 @@
+INSERT INTO Employee
+VALUES('S0006','¤»©M',D003)
